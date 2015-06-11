@@ -1,0 +1,27 @@
+{
+  "name": "biojs-vapor",
+  "description": "A BioJS usecase for hypothesis creation in plant science",
+  "version": "0.0.1",
+  "homepage": "https://github.com/bene200/biojs-vapor",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bene200/biojs-vapor.git"
+  },
+  "author": {
+    "name": "Ben Rauscher",
+    "email": "benedikt.rauscher@tgac.ac.uk"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.40.0",
+    "underscore": "^1.8.3",
+    "biojs-io-clustal": "^0.0.20",
+    "msa": "^0.4.2"
+  },
+  "keywords": [
+    "biojs",
+    "arabidopsis",
+    "thaliana"
+  ],
+  "main": "./js/vapor.js"
+}
