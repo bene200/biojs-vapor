@@ -16,7 +16,9 @@
     "request": "^2.40.0",
     "underscore": "^1.8.3",
     "biojs-io-clustal": "^0.0.20",
-    "msa": "^0.4.2"
+    "msa": "^0.4.2",
+    "promise": "^0.0.1",
+
   },
   "keywords": [
     "biojs",
