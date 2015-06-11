@@ -1,7 +1,7 @@
 {
   "name": "biojs-vapor",
   "description": "A BioJS usecase for hypothesis creation in plant science",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "homepage": "https://github.com/bene200/biojs-vapor",
   "repository": {
     "type": "git",
@@ -17,8 +17,7 @@
     "underscore": "^1.8.3",
     "biojs-io-clustal": "^0.0.20",
     "msa": "^0.4.2",
-    "promise": "^0.0.1",
-
+    "promise": "^7.0.1"
   },
   "keywords": [
     "biojs",
